@@ -1,0 +1,35 @@
+
+p{
+    text-align: center;
+}
+img:hover{
+    transform: scale(1.1);
+}
+img,p{
+    color: darkpink;
+    image-align:center;
+    text-align: center;
+    border: '';
+    cursor: pointer;
+    font-family: "georgia";
+}
+
+p{
+    color: 5px ashed purple; 
+    text-align: center ;
+    border:red ;
+    cursor: pointer;
+    font-family: "georgia";
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: {};
+    height: {};
+}
+
+p:hover{
+    transform: scale(1.1);
+
+}
